@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6863799
+  lightness: 0.6648746
+  brandStrength: 0.969534
+  brandColors:
+    - '#FFFFFF'
+    - '#FFEAB6'
+    - '#666666'
+    - '#FF6501'
+    - '#FD9A01'
+  rhythmicContrast: 0.9086022
+typography_spectrum: 0.7741935
+name: Exhibitlab
